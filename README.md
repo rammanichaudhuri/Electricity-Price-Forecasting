@@ -1,6 +1,7 @@
 # electricity-price-prediction
 predicting the price of electricity by using previous data
 
+dataset : https://www.kaggle.com/salilchoubey/electrity-prices
 total data rows : 38014
 
 description of the features :
